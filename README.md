@@ -19,6 +19,7 @@ This repository is designed to document my learning process of Solidity and WEB3
 To get started, ensure you have the following installed:
 1. **Node.js** (LTS version recommended)
    - Install from [Node.js Official Site](https://nodejs.org/)
+
 2. **Truffle Framework**
    - Install globally:
      ```bash

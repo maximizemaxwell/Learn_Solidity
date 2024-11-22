@@ -1,0 +1,42 @@
+# environment path
+.env
+
+# Truffle and Hardhat stuffs
+build/
+artifacts/
+cache/
+
+# Node.js dependency
+node_modules/
+
+# Solidity tests
+coverage/
+coverage.json
+coverage-final.json
+
+# IDE stuffs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Log 
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS stuff
+.DS_Store
+Thumbs.db
+
+# Ganache datas
+*.log
+ganache_db/
+
+# Hardhat and Truffle stuffs
+*.rlp
+*.dbg
+
+# ABI and binaries
+*.abi
+*.bin

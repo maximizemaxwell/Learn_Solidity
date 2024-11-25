@@ -1,5 +1,5 @@
-const Counter = artifacts.require("Counter");
+const Calculator = artifacts.require("Calculator");
 
 module.exports = function(deployer) {
-  deployer.deploy(Counter);
+  deployer.deploy(Calculator);
 };

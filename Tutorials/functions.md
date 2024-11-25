@@ -9,3 +9,10 @@ function get() public view returns (uint) {
 - function name
 - function type
 - return types
+
+# Function visibility
+
+- public
+- private
+- internal
+- external
